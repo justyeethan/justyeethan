@@ -32,4 +32,6 @@ Here are some ideas to get you started:
     - Soccer player
     - Video game Enthusiast
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justyeethan" />
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justyeethan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
