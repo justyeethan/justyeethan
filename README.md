@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     - Soccer player
     - Video game Enthusiast
 -->
-# Github Stats
+## Github Stats
 <a href="https://github.com/justyeethan/justyeethan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justyeethan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -40,3 +40,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/justyeethan/justyeethan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=justyeethan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
