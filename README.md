@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
--->
+
 
 - 🔭 I’m currently working on ...
     - Food With Friends and moving the front end of the application to React.js.
@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a ...
     - Soccer player
     - Video game Enthusiast
-
+-->
+# Github Stats
 <a href="https://github.com/justyeethan/justyeethan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justyeethan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
