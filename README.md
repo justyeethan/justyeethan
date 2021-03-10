@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
     - Django
     - Vue.js
-    - Data Science
     
 
 ## &#x1f4c8; GitHub Stats
