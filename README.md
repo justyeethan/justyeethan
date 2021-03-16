@@ -24,14 +24,6 @@ Here are some ideas to get you started:
     - Soccer player
     - Video game Enthusiast
 -->
-# About Me
-- 🔭 I’m currently working on ...
-    - Food With Friends and moving the front end of the application to React.js.
-    - Reseaching and implementing 'Devient' Linux
-    
-- 🌱 I’m currently learning ...
-    - Django
-    - Vue.js
     
 
 ## &#x1f4c8; GitHub Stats
