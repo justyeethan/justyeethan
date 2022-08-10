@@ -9,7 +9,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :school: I am a `Junior` at the University of Washington
 - :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
@@ -146,7 +146,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="justyeethan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justyeethan&show_icons=true&hide=stars&hide=issues&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="justyeethan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justyeethan&show_icons=true&hide=issues,contribs,stars&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justyeethan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="justyeethan" height="192px"/>
