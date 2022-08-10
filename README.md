@@ -10,8 +10,7 @@
 - :technologist: I love using Software as a solution for `Data & Automation`
 - :computer: I am a competitive programmer mainly at `Google's Code Jam`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-
-<h2>[Portfolio](https://www.ethanyee.info/)</h2>
+- :pushpin: Check out my [Portfolio](https://www.ethanyee.info/)!
 
 <br>
 
