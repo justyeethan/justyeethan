@@ -1,21 +1,17 @@
 <h1 align="center">Hi , I'm Ethan Yee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=justyeethan&label=Profile%20views&color=0e75b6&style=plastic" alt="justyeethan" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="yeethan" target="_blank"/> 
-	</a>
-</p>
+	<img src="https://komarev.com/ghpvc/?username=justyeethan&label=Profile%20views&color=0e75b6&style=plastic" alt="justyeethan" /> </p>
 
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at the University of Washington
 - :trophy: `ACPC` Finalist 2021
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
+- :technologist: I love using Software as a solution for `Data & Automation`
+- :computer: I am a competitive programmer mainly at `Google's Code Jam`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
-- :nerd_face: Always `learning new things`
+
+<h2>[Portfolio](https://www.ethanyee.info/)</h2>
 
 <br>
 
@@ -169,6 +165,7 @@
 <p align="center"> <a href="https://github.com/justyeethan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justyeethan&layout=compact&theme=algolia" alt="justyeethan" /></a> </p>
 
 -----
-Credits: [yeethan](https://github.com/yeethan)
+Credits: [7oSkaaa](https://github.com/7oSkaaa)
+Modified By: [justyeethan](https://github.com/justyeethan)
 
-Last Edited on: 10/02/2022
+Last Edited on: 08/09/2022
