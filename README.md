@@ -5,11 +5,11 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at the University of Washington
+- :school: I am a `Senior` at the University of Washington
 - :trophy: `WTSA` Finalist 2015, 2016
 - :technologist: I love using Software as a solution for `Data & Automation`
 - :computer: I am a competitive programmer mainly at `Google's Code Jam`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning: `Computer Science` and `Data Science`.
 
 <br>
 
