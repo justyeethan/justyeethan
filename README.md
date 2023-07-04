@@ -5,11 +5,11 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Senior` at the University of Washington
-- :trophy: `WTSA` Finalist 2015, 2016
+- :school: I am a `new grad` from the University of Washington
+- :trophy: `WTSA` Finalist 2015, 2016, 2017
 - :technologist: I love using Software as a solution for `Data & Automation`
 - :computer: I am a competitive programmer mainly at `Google's Code Jam`
-- :student: I’m currently learning: `Computer Science` and `Data Science`.
+- :student: I’m currently learning: `Deep Learning` & `UX/UI`.
 
 <br>
 
@@ -81,8 +81,6 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
@@ -90,17 +88,15 @@
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
- ### 👉 IDEs
+ ### 👉 Editors
  
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+	&emsp;
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/vim-%23000000.svg?style=plastic&logo=vim&logoColor=white" /></a>
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
@@ -113,11 +109,7 @@
   &emsp;
     <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
  ### 👉 Operating Systems
@@ -150,20 +142,12 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/justyeethan"><img alt="justyeethan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=justyeethan&custom_title=justyeethan's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/justyeethan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justyeethan&layout=compact&theme=algolia" alt="justyeethan" /></a> </p>
 
 -----
 Credits: [7oSkaaa](https://github.com/7oSkaaa)
-Modified By: [justyeethan](https://github.com/justyeethan)
+Heavily Modified By: [justyeethan](https://github.com/justyeethan)
 
-Last Edited on: 08/09/2022
+Last Edited on: 07/04/2023
