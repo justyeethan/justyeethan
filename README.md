@@ -8,8 +8,7 @@
 - :school: I am a `new grad` from the University of Washington
 - :trophy: `WTSA` Finalist 2015, 2016, 2017
 - :technologist: I love using Software as a solution for `Data & Automation`
-- :computer: I am a competitive programmer mainly at `Google's Code Jam`
-- :student: I’m currently learning: `Deep Learning` & `UX/UI`.
+- :computer: I am a competitive programmer mainly at `Google's Code Jam` top 200
 
 <br>
 
