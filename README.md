@@ -6,7 +6,6 @@
 
 ## :sassy_man:  About me
 - :school: I am a `new grad` from the University of Washington
-- :trophy: `WTSA` Finalist 2015, 2016, 2017
 - :technologist: I love using Software as a solution for `Data & Automation`
 
 <br>
