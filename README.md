@@ -37,7 +37,6 @@
 <code><img height="40" alt="elixir" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" /></code>
 <code><img height="40" alt="swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /></code>
 <code><img height="40" alt="golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /></code>
-<code><i style="font-size: 40px;" class="devicon-rust-original"></i></code>
 </div>
 
 <div align="center">
