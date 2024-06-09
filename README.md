@@ -7,11 +7,10 @@
 <br>
 
 
-<p align="center">
-  Visitor count
-  <br>
+<div align="center">
+  <h3>Visitor count</h3>
   <img src="https://profile-counter.glitch.me/justyeethan/count.svg" />
-</p>
+</div>
 <br>
 
 ## About me
