@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-<h3>OS/Editors (I use arch and [neovim](https://github.com/justyeethan/AnyaVim), btw):</h3>
+<h3>OS/Editors (I use arch and <a href="https://github.com/justyeethan/AnyaVim" target="_blank" rel="noopener noreferrer">Neovim</a>, btw):</h3>
 <code><img height="80" alt="Arch Linux (btw)" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></code>
 <code><img height="80" alt="Neovim (btw)" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></code>
 </div>
