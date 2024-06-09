@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Ethan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img width="100%" alt="Hello! Welcome to my Github!" alt="Landing page Hello!" src="./assets/Hello.png" />
+<img width="100%" style="border-radius: 20px;" alt="Hello! Welcome to my Github!" alt="Landing page Hello!" src="./assets/Hello.png" />
 <br>
 
 
@@ -83,7 +83,7 @@
 
 <br />
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justyeethan&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justyeethan&theme=react-dark&radius=20" />
 </div>
 <br />
 
