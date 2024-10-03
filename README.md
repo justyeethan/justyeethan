@@ -31,10 +31,6 @@
 
 - 💻 Software Engineer @ Untitled Cloud Video Company
 
-- 🎓 New graduate from the University of Washington
-
-- 🧬 Bioengineering Researcher @ Stanford
-
 - 📚 Currently learning Kotlin <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 
 
