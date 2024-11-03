@@ -13,7 +13,7 @@
 
 - 💻 Software Engineer @ Untitled Cloud Video Company
 
-- 📚 Currently learning Kotlin <img align="center" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+- 📚 Currently learning Kotlin <img align="top" height="21" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 
 
 <br/>
