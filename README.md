@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>Visitor count</h3>
-  <img src="https://profile-counter.glitch.me/justyeethan/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=justyeethan" />
 </div>
 <br>
 
@@ -73,4 +73,4 @@
 
 ---
 
-Last Edited on: 11/03/2024
+Last Edited on: 08/16/2025
