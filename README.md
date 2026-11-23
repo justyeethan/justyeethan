@@ -1,13 +1,28 @@
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
+
+
+
 <h1 align="center">Hi, I'm Ethan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   <h3>Visitor count</h3>
   <img src="https://komarev.com/ghpvc/?username=justyeethan" />
+  <div>
+    <img 
+      width="120" 
+      height="120" 
+      alt="pavi" 
+      src="https://github.com/user-attachments/assets/bea73018-d065-4fe8-8d3c-95c4a88bd8e2" 
+    />
+
+  </div>
 </div>
+
+
 <br>
+
 
 ## About me
 
