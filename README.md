@@ -43,7 +43,7 @@
 <div align="center">
 <h3>Platforms/Tools:</h3>
 <code><img height="50" alt="xcode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" /></code>
-<code><img height="50" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
+<code><img height="50" alt="aws" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/amazonwebservices/amazonwebservices-original.svg" /></code>
 <code><img height="50" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></code>
 <code><img height="50" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></code>
 <code><img height="50" alt="postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></code>
@@ -57,9 +57,6 @@
 <code><img height="80" alt="Neovim (btw)" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></code>
 </div>
 
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/justyeethan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justyeethan&layout=compact&theme=algolia&rank=SECRET,S,A,B&column=6&margin-h=20&margin-w=20" alt="justyeethan" /></a> </p>
 
 ---
 
